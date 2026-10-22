@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-10-22T02:00:17Z",
+  "gerado_em": "2026-10-22T02:00:37Z",
   "loterias": {
     "lotofacil": {
       "ultimo_concurso": 3810,
@@ -45,23 +45,23 @@
       }
     },
     "quina": {
-      "ultimo_concurso": 7147,
-      "data": "2026-10-20",
+      "ultimo_concurso": 7148,
+      "data": "2026-10-21",
       "arquivos": {
         "ultimo": {
           "caminho": "quina/ultimo.json",
-          "sha256": "20ab277ad64a6c28698c0c9084174bd75a96946aed19d34864cb40f0c4118f84",
-          "bytes": 126
+          "sha256": "a21529ec801cc460cfb2dc2487b1a25791176d7577872c6c162e4637b825eb6e",
+          "bytes": 127
         },
         "tabela_geral": {
           "caminho": "quina/tabela_geral.json",
-          "sha256": "267b1cfb3283705c836932e190ccffe0305832528729849ece2b26256083329a",
-          "bytes": 35969
+          "sha256": "8d0b8a53430940378c2276d47b429ab514ebe5be340dd7c192df38cb8ff1bd8f",
+          "bytes": 35954
         },
         "historico": {
           "caminho": "quina/historico.json",
-          "sha256": "146c660a3c3f5e723eeec69244283e8cd207b0a1330c7d386ab0855e5f4dd97e",
-          "bytes": 337997
+          "sha256": "99e7d166e0d5ff8b50343a359b7065a65e6b749c4a96e78c10181e424b902a16",
+          "bytes": 338045
         }
       }
     }
