@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-10-23T02:00:32Z",
+  "gerado_em": "2026-10-23T02:00:46Z",
   "loterias": {
     "lotofacil": {
       "ultimo_concurso": 3811,
@@ -24,23 +24,23 @@
       }
     },
     "megasena": {
-      "ultimo_concurso": 3072,
-      "data": "2026-10-20",
+      "ultimo_concurso": 3073,
+      "data": "2026-10-22",
       "arquivos": {
         "ultimo": {
           "caminho": "megasena/ultimo.json",
-          "sha256": "46900452bb12913ab58ec4e563795a45de1e4452ad78db5bd04b13ce74f98eb6",
-          "bytes": 131
+          "sha256": "34b7d8cdea7d394ed9851f246a751e91c7b4681ee5c40880c0beb0575aee8458",
+          "bytes": 133
         },
         "tabela_geral": {
           "caminho": "megasena/tabela_geral.json",
-          "sha256": "42b2550ae66e76b709e72192ca72eab2a2fa382c70931e90893f786db4884dd4",
-          "bytes": 26942
+          "sha256": "fd86f4866a50aecaaa2035b92eea24a5a64dc8d1fb6ab1bd2da0ba2bb4f5be85",
+          "bytes": 26945
         },
         "historico": {
           "caminho": "megasena/historico.json",
-          "sha256": "4357dc2c3e8a5a81e3d8c81fe5ecfba94e383376f9f68ac9aa2a7d7d49418900",
-          "bytes": 155960
+          "sha256": "338f56351084999fe15862506a1743152e8308d41743360dc7014a5d66748960",
+          "bytes": 156011
         }
       }
     },
