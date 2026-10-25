@@ -1,67 +1,67 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-10-24T02:00:37Z",
+  "gerado_em": "2026-10-25T03:07:24Z",
   "loterias": {
     "lotofacil": {
-      "ultimo_concurso": 3812,
-      "data": "2026-10-23",
+      "ultimo_concurso": 3813,
+      "data": "2026-10-24",
       "arquivos": {
         "ultimo": {
           "caminho": "lotofacil/ultimo.json",
-          "sha256": "35b2dcea1bf23759f069412d8131e245e0fb9d251ebe25503c4e0894e35ebd7a",
-          "bytes": 166
+          "sha256": "ebe07470c085a39604f013bbb15222b8938f8a641846b3b6a367545c2918071e",
+          "bytes": 167
         },
         "tabela_geral": {
           "caminho": "lotofacil/tabela_geral.json",
-          "sha256": "4bfca75d1db2ede06813eaf6e1ce0228e0be1f800cca2c3e2c68792a110a11c3",
+          "sha256": "e965dcdaecc3f7cac94ab0521f305ed7433f2ba40656e129331adacede985203",
           "bytes": 11321
         },
         "historico": {
           "caminho": "lotofacil/historico.json",
-          "sha256": "bc8ece1d3fafb61c8a53b42e0f308a046475f7b71c1690d89d8949a30c69861e",
-          "bytes": 313946
+          "sha256": "09da4c00f7920b8e7e3d753667d955b2f00a31738376392f42c3b31c48087060",
+          "bytes": 314030
         }
       }
     },
     "megasena": {
-      "ultimo_concurso": 3073,
-      "data": "2026-10-22",
+      "ultimo_concurso": 3074,
+      "data": "2026-10-24",
       "arquivos": {
         "ultimo": {
           "caminho": "megasena/ultimo.json",
-          "sha256": "34b7d8cdea7d394ed9851f246a751e91c7b4681ee5c40880c0beb0575aee8458",
-          "bytes": 133
+          "sha256": "e5319ddeb36f63da79ffd7d679baf8d0c0db5a864520799ad8573a17b56680e6",
+          "bytes": 132
         },
         "tabela_geral": {
           "caminho": "megasena/tabela_geral.json",
-          "sha256": "fd86f4866a50aecaaa2035b92eea24a5a64dc8d1fb6ab1bd2da0ba2bb4f5be85",
-          "bytes": 26945
+          "sha256": "8126cb0f7df711898dc7fb7bdc19f9c54fa5b4be9fe5335e074bc70211f4511e",
+          "bytes": 26941
         },
         "historico": {
           "caminho": "megasena/historico.json",
-          "sha256": "338f56351084999fe15862506a1743152e8308d41743360dc7014a5d66748960",
-          "bytes": 156011
+          "sha256": "20d48da4267439cc52c6c1297ed751bc636f0fd7824a434fcee57e708c851539",
+          "bytes": 156061
         }
       }
     },
     "quina": {
-      "ultimo_concurso": 7150,
-      "data": "2026-10-23",
+      "ultimo_concurso": 7151,
+      "data": "2026-10-24",
       "arquivos": {
         "ultimo": {
           "caminho": "quina/ultimo.json",
-          "sha256": "f3517abfe686e98333bdebc39b7d2ef57ac3628d4c47c98733353f312e3c3d69",
-          "bytes": 126
+          "sha256": "7011b2d38c5685a7e304acd0cb0da57139e6ec3bb3dedaf0cf072a05d31dd12e",
+          "bytes": 127
         },
         "tabela_geral": {
           "caminho": "quina/tabela_geral.json",
-          "sha256": "fd76fa420416b4a3942d8d4deaeb154a5796b1d163807c838d4a0620f9dcce79",
-          "bytes": 35962
+          "sha256": "0fce6b8379ce1ffc201d617cbea9c8e3dec7e18ad9f5cac531d5fef4ca2cf31f",
+          "bytes": 35983
         },
         "historico": {
           "caminho": "quina/historico.json",
-          "sha256": "73b0885e68969e7c080f1a07a5098835e61bb468e8e285fe8796814003918f87",
-          "bytes": 338140
+          "sha256": "3cfbb3874910ab0fbbf3d2edf500c5fd919319d700c91d6f1c3a9fee5b88d1da",
+          "bytes": 338188
         }
       }
     }
