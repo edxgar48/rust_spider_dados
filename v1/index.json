@@ -1,97 +1,97 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-10-31T18:55:07Z",
+  "gerado_em": "2026-11-02T03:06:19Z",
   "loterias": {
     "lotofacil": {
-      "ultimo_concurso": 3818,
-      "data": "2026-10-30",
+      "ultimo_concurso": 3819,
+      "data": "2026-11-01",
       "arquivos": {
         "ultimo": {
           "caminho": "lotofacil/ultimo.json",
-          "sha256": "d8eaf9e712d8e315030baf4b7c5f2e0414152e119d801ea7773adb65016c6eb9",
-          "bytes": 166
+          "sha256": "1805bbbb10316e29259b451e43e972f76d8612ce30041e8b036926589c2c2856",
+          "bytes": 165
         },
         "tabela_geral": {
           "caminho": "lotofacil/tabela_geral.json",
-          "sha256": "f4e443f2f4dad677542d072b0b781d8835516de1cd48fb951ecb8ac270de5bb5",
-          "bytes": 11321
+          "sha256": "1674951b4189a5c16d6fd3641bbcfe86923ec8c8f9ebf929bd78fabecf866bca",
+          "bytes": 11330
         },
         "historico": {
           "caminho": "lotofacil/historico.json",
-          "sha256": "cef7a725455d51c80750be154c5dc6a84257cf5b42b4e7d11094ad5f42cfe353",
-          "bytes": 314447
+          "sha256": "b62ad093885ebafd8dc1b4ac78af2314d74c786265e8d88478a81d3e04ec82d8",
+          "bytes": 314529
         },
         "ranking_taxa": {
           "caminho": "lotofacil/ranking_taxa.json",
-          "sha256": "d2192b68ddebe620ac82c97f660f4886031c5945a60102b59ad013668b1ddfca",
-          "bytes": 5363
+          "sha256": "cf0f679279068bf1fc0697533dc854116e90cae7491976c887ef80c4f51016a5",
+          "bytes": 5359
         },
         "ranking_posicoes": {
           "caminho": "lotofacil/ranking_posicoes.json",
-          "sha256": "e662966d6b21fc7f0299628b2e9ed21c7c31d7379e095926169aaaff6dfbb152",
-          "bytes": 3027
+          "sha256": "f6dc0339d4d606010359db437003e7dcb4fd70f94650d530b02b8a06a4cce612",
+          "bytes": 3028
         }
       }
     },
     "megasena": {
-      "ultimo_concurso": 3079,
-      "data": "2026-10-30",
+      "ultimo_concurso": 3080,
+      "data": "2026-11-01",
       "arquivos": {
         "ultimo": {
           "caminho": "megasena/ultimo.json",
-          "sha256": "e67a86cfd9a0a3f61c63d1396f10ded9fa0a81ae7abede6cef724bd8da514616",
-          "bytes": 132
+          "sha256": "fcd50a60d0e66da6bb2f46e23bc93358c6486bdb0aa358b8f38781932ab55491",
+          "bytes": 134
         },
         "tabela_geral": {
           "caminho": "megasena/tabela_geral.json",
-          "sha256": "6818cde62409354bca3dac40e1c02e98de3b60f53b883691b486a6077f51f0a9",
-          "bytes": 26929
+          "sha256": "63303bd334976847a3c2dd5fbdcb04f76fdb1b2498d25315b023b28203c1a4e0",
+          "bytes": 26938
         },
         "historico": {
           "caminho": "megasena/historico.json",
-          "sha256": "e1756184c0e3902f12b56e48216db50f9bce1b5443f15730724ce04cd2fe73bb",
-          "bytes": 156314
+          "sha256": "b6d04243852e0685e171ca2426027f4ef17460797e5fef78db73bf8b4e921505",
+          "bytes": 156366
         },
         "ranking_taxa": {
           "caminho": "megasena/ranking_taxa.json",
-          "sha256": "2390f76d1425469abbdfd3f3a69b6e80632b39b1bd5c785d716b3f2ac7f5c15e",
-          "bytes": 12463
+          "sha256": "ac057f843d89981f1263b408d5bce4efd2546d6da9c279aedf1134e8deaa5bb9",
+          "bytes": 12462
         },
         "ranking_posicoes": {
           "caminho": "megasena/ranking_posicoes.json",
-          "sha256": "6ebaf85004e75cbb64c05451fd4302bae69295dbed81141ba9af7e16e344f5ef",
-          "bytes": 6647
+          "sha256": "7a38b94b6adfe12a1b979111449b8e6fb5339b462bab2b29ccace08263ea31e3",
+          "bytes": 6639
         }
       }
     },
     "quina": {
-      "ultimo_concurso": 7156,
-      "data": "2026-10-30",
+      "ultimo_concurso": 7157,
+      "data": "2026-11-01",
       "arquivos": {
         "ultimo": {
           "caminho": "quina/ultimo.json",
-          "sha256": "75c77a90e70191c21b1d3b935714afb1212bdba1c6366c6e94c07a8af7714763",
-          "bytes": 127
+          "sha256": "ad77cc37baf0b6e673fcec9971ffda3c71ce51efd896cce26796545f58623cde",
+          "bytes": 126
         },
         "tabela_geral": {
           "caminho": "quina/tabela_geral.json",
-          "sha256": "7dedb4063229c262f5190efe1bbe82a4d4139b2823685e91cb81f0adeab0f90a",
-          "bytes": 35991
+          "sha256": "b1e5435f589bbd64f42f88aedc9734567f1c09487fb7a04657d16ace6e8798dd",
+          "bytes": 36002
         },
         "historico": {
           "caminho": "quina/historico.json",
-          "sha256": "1f4c83fcc2e3a065e311e92e787350753e6de182b1207e43431d279dea93b03b",
-          "bytes": 338426
+          "sha256": "4b81c39b30805f6405a27f42c79edd70896e29ba0e54f0e6cf749c6c5caa2dbc",
+          "bytes": 338473
         },
         "ranking_taxa": {
           "caminho": "quina/ranking_taxa.json",
-          "sha256": "831f7e688f2e23dbe2c27b502f1be22f6558a19f12a3af4a2d7336197841869b",
-          "bytes": 16529
+          "sha256": "a9b9a3b461c7db3be6e302e62fcae7819df67d586f6b87a79cb156f61015375f",
+          "bytes": 16526
         },
         "ranking_posicoes": {
           "caminho": "quina/ranking_posicoes.json",
-          "sha256": "67ce14ed7e5f1095b43579724ee7f4c10b0e33aae6c2ec6d0c2477274b6fd1b1",
-          "bytes": 8700
+          "sha256": "e7c83e97fde2bb31cd10dfc8673a35fed28981df8d8860004bf8150ec8c5d7f6",
+          "bytes": 8693
         }
       }
     }
