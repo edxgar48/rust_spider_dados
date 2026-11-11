@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-11-11T11:04:33Z",
+  "gerado_em": "2026-11-11T11:04:51Z",
   "loterias": {
     "lotofacil": {
       "ultimo_concurso": 3826,
@@ -34,33 +34,33 @@
       }
     },
     "megasena": {
-      "ultimo_concurso": 3083,
-      "data": "2026-11-08",
+      "ultimo_concurso": 3084,
+      "data": "2026-11-10",
       "arquivos": {
         "ultimo": {
           "caminho": "megasena/ultimo.json",
-          "sha256": "8df435aa2dbd53bee0fbdb9c45c454e29bf1c89afe8ff063420f3a121dcd69ee",
-          "bytes": 134
+          "sha256": "06b1ae3f0fcf07bbcd9acd63042714e907ad37330564afdbb47eb1e6f37bc5f4",
+          "bytes": 133
         },
         "tabela_geral": {
           "caminho": "megasena/tabela_geral.json",
-          "sha256": "df70b3b3f16eed745951671a6c4b7fa453d2a0f41e7f2f1126d7bfbd632105ef",
-          "bytes": 26940
+          "sha256": "7763ccd6863a2f11006d87ab0dc5dd698acdc87d643ca86f239e3605ba97b35e",
+          "bytes": 26942
         },
         "historico": {
           "caminho": "megasena/historico.json",
-          "sha256": "86f36c2a7a7329510be7b47dd0db5f3ddce4c5156e8d2aea209afdf08eabae53",
-          "bytes": 156521
+          "sha256": "04caab667254a34087c50d7ff706602fbd22142c14b2950938ea899c3d935024",
+          "bytes": 156572
         },
         "ranking_taxa": {
           "caminho": "megasena/ranking_taxa.json",
-          "sha256": "3dd14aad2b2559a27b026e382cbee1ffe828663d33d46acaf4c9e47a29e43b74",
-          "bytes": 12465
+          "sha256": "79e613e83e7798e224d46c912d9c31eec1f73b69932fd971f00d2352469b28ef",
+          "bytes": 12467
         },
         "ranking_posicoes": {
           "caminho": "megasena/ranking_posicoes.json",
-          "sha256": "979a94c29bffd48ad343c4e652bae6b39c40fff1977a55692244aa0971c671c7",
-          "bytes": 6641
+          "sha256": "2ac12d61d2a6f490a1f531c919b959083c30317c1f445b290ed309db6c540b56",
+          "bytes": 6640
         }
       }
     },
