@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-11-13T02:00:34Z",
+  "gerado_em": "2026-11-13T02:01:22Z",
   "loterias": {
     "lotofacil": {
       "ultimo_concurso": 3828,
@@ -65,33 +65,33 @@
       }
     },
     "quina": {
-      "ultimo_concurso": 7165,
-      "data": "2026-11-11",
+      "ultimo_concurso": 7166,
+      "data": "2026-11-12",
       "arquivos": {
         "ultimo": {
           "caminho": "quina/ultimo.json",
-          "sha256": "b4c77b8e578301010295c77301290590620321d90b19ef34eee2986f1405ccad",
+          "sha256": "e458cb77bdcf3ee95d771f8c8e06e3a4da16773de969cbc9bfeaf4670b3b7c57",
           "bytes": 127
         },
         "tabela_geral": {
           "caminho": "quina/tabela_geral.json",
-          "sha256": "7a3ff3a9e199f180308cc2a9beca64f5fb87530f8003cdf132ec412a2f6bb6fa",
-          "bytes": 35984
+          "sha256": "4351f6d2bb393fe9b2632d303ea9977247165f862d3450f4e30f4c26df2d6373",
+          "bytes": 35982
         },
         "historico": {
           "caminho": "quina/historico.json",
-          "sha256": "4d64ba6b2beffc9e05ffd4343ce800ba9b59428a1ace87b34858818b9b7326a1",
-          "bytes": 338855
+          "sha256": "e25ab24ea18265c0888ea6e2d42e61ad64cc0036f0a33f4b2e2a2bdd46566833",
+          "bytes": 338903
         },
         "ranking_taxa": {
           "caminho": "quina/ranking_taxa.json",
-          "sha256": "82765f4af92841af4c5723ec85a0d3d2192b768a0325d5ace6dc9a96016eae90",
-          "bytes": 16518
+          "sha256": "49be9d887b135b09a688661932c1ebb3f241b2e8cd055b385ece8a570dfe9137",
+          "bytes": 16526
         },
         "ranking_posicoes": {
           "caminho": "quina/ranking_posicoes.json",
-          "sha256": "edf68df9e45033a2dd8ee8665beee5bc45e3db8211a182c6146ca0387d528550",
-          "bytes": 8697
+          "sha256": "da0593acf7fd8a19bf753cae197d758eea3fa0f3368b929f8cb35a9ed156e1a3",
+          "bytes": 8709
         }
       }
     },
