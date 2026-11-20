@@ -1,35 +1,35 @@
 {
   "schema_version": 1,
-  "gerado_em": "2026-11-19T02:01:03Z",
+  "gerado_em": "2026-11-20T02:46:40Z",
   "loterias": {
     "lotofacil": {
-      "ultimo_concurso": 3833,
-      "data": "2026-11-18",
+      "ultimo_concurso": 3834,
+      "data": "2026-11-19",
       "arquivos": {
         "ultimo": {
           "caminho": "lotofacil/ultimo.json",
-          "sha256": "89b04bf0a2bf0f9a82a9ad6e145c57c121bfbbf50d89d3d7cf8b1a1919ef3268",
-          "bytes": 166
+          "sha256": "5266fe351c21bcc57a22fb0997412daf1ce49fab1eb600a5adf97741ec6cba53",
+          "bytes": 165
         },
         "tabela_geral": {
           "caminho": "lotofacil/tabela_geral.json",
-          "sha256": "5faba7bc36b0340e9f715fcb7afdc641d4246af20bb7c30869e790c7a33df94b",
-          "bytes": 11317
+          "sha256": "f548818d79ffd2d0b3fd861ec8870dfe5ae20c8bd5cfa2ad21510a3262d667fe",
+          "bytes": 11316
         },
         "historico": {
           "caminho": "lotofacil/historico.json",
-          "sha256": "9ee53056f1afce23142a0c282ceaa598fe2596b25262bd370a0fab2d49adff6e",
-          "bytes": 315694
+          "sha256": "5d175c182b06a4b7cb812e16fe603362e00a6457a0b8fdc831bbe8902c5101bd",
+          "bytes": 315776
         },
         "ranking_taxa": {
           "caminho": "lotofacil/ranking_taxa.json",
-          "sha256": "ae6f5db011abedc282ee0ce90107960b9f590f5c6d455f1fbaea879469a4cd2a",
-          "bytes": 5361
+          "sha256": "f15a7824b3e9591444c2bb17478b213b9f22a27315938e0810b6f4e4d8119150",
+          "bytes": 5360
         },
         "ranking_posicoes": {
           "caminho": "lotofacil/ranking_posicoes.json",
-          "sha256": "b7eb2df884ca96b50b64236aaabcc3d27f57cfe4eeeccfe435d9eb7c8726466d",
-          "bytes": 3029
+          "sha256": "aa0a65e2749f2b4b3a2fd12d06c23b8c1a93545912b94b2eed1abae9b50c9a4a",
+          "bytes": 3027
         }
       }
     },
